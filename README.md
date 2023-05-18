@@ -1,6 +1,6 @@
 ### Welcome to my dbt projects repo!
 
-In this repo you'll see that I explore and showcase the following:
+In this repo you'll see that I explore and showcase the following in **Data Build Tool (dbt)**:
 - data modeling
 - data transforming
 - data engineering
