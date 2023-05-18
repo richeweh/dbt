@@ -1,10 +1,10 @@
-Welcome to your new dbt project!
+Welcome to my dbt projects repo!
 
-### Using the starter project
+In this repo you'll see that I explore and showcase the following:
+- data modeling
+- data transforming
+- data engineering
 
-Try running the following commands:
-- dbt run
-- dbt test
 
 
 ### Resources:
