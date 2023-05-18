@@ -1,4 +1,4 @@
-###Welcome to my dbt projects repo!
+### Welcome to my dbt projects repo!
 
 In this repo you'll see that I explore and showcase the following:
 - data modeling
